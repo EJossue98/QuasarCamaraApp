@@ -1,6 +1,9 @@
-# Quasar App (foto)
+# Quasar Camara App
 
 A Quasar Framework app
+
+Erick Murillo
+Seminario de Sistemas
 
 ## Install the dependencies
 ```bash
